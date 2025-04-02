@@ -1,0 +1,70 @@
+﻿  MimiLoader.c
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(71,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(83,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(114,17): warning C4244: '=': conversión de 'SIZE_T' a 'DWORD'; posible pérdida de datos
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(134,37): warning C4244: 'función': conversión de 'const DWORD64' a 'DWORD'; posible pérdida de datos
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(183,30): warning C4047: 'función': 'PBYTE' es distinto en los niveles de direccionamiento indirecto de 'DWORD64'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(183,30): warning C4024: 'MemCpy': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(183,86): warning C4047: 'función': 'PBYTE' es distinto en los niveles de direccionamiento indirecto de 'DWORD64'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(183,86): warning C4024: 'MemCpy': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(204,11): warning C4047: '=': 'DWORD64' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(249,24): warning C4133: '=': tipos incompatibles, de 'PBYTE' a 'PIMAGE_BASE_RELOCATION'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(194,8): warning C4047: 'inicializando': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(197,10): warning C4047: 'inicializando': 'DWORD64' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(369,69): warning C4047: '!=': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(371,127): warning C4047: 'función': 'DWORD64' es distinto en los niveles de direccionamiento indirecto de 'LPVOID'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(371,127): warning C4024: 'RtlAddFunctionTable': tipos distintos para el parámetro formal y el parámetro real 3
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(370,21): warning C4133: 'inicializando': tipos incompatibles, de 'PBYTE' a 'PRUNTIME_FUNCTION'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(394,19): warning C4133: 'función': tipos incompatibles, de 'PProcessParametersStore' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(398,29): warning C4133: 'función': tipos incompatibles, de 'PWCHAR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(398,84): warning C4133: 'función': tipos incompatibles, de 'PWSTR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(405,56): warning C4133: 'función': tipos incompatibles, de 'PWSTR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(415,20): warning C4133: 'función': tipos incompatibles, de 'PWCHAR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(416,24): warning C4133: 'función': tipos incompatibles, de 'PWCHAR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(416,29): warning C4133: 'función': tipos incompatibles, de 'unsigned short [2]' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(417,24): warning C4133: 'función': tipos incompatibles, de 'PWCHAR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(417,67): warning C4133: 'función': tipos incompatibles, de 'PWSTR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(418,78): warning C4133: 'función': tipos incompatibles, de 'PWCHAR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(418,83): warning C4133: 'función': tipos incompatibles, de 'unsigned short [2]' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(419,78): warning C4133: 'función': tipos incompatibles, de 'PWCHAR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(419,83): warning C4133: 'función': tipos incompatibles, de 'unsigned short [2]' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(424,49): warning C4244: '=': conversión de 'DWORD' a 'USHORT'; posible pérdida de datos
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(425,56): warning C4244: '=': conversión de 'DWORD' a 'USHORT'; posible pérdida de datos
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(428,56): warning C4133: 'función': tipos incompatibles, de 'PWSTR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(429,46): warning C4133: 'función': tipos incompatibles, de 'PWSTR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(429,55): warning C4133: 'función': tipos incompatibles, de 'PWCHAR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(430,20): warning C4133: 'función': tipos incompatibles, de 'PWCHAR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(441,45): warning C4133: 'función': tipos incompatibles, de 'PWSTR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(441,73): warning C4133: 'función': tipos incompatibles, de 'PWCHAR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(444,38): warning C4133: 'función': tipos incompatibles, de 'PWCHAR' a 'PBYTE'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(471,36): warning C4047: 'función': 'LPVOID *' es distinto en los niveles de direccionamiento indirecto de 'DWORD64 *'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(471,36): warning C4022: 'ReadShellcode': no coincide el puntero para el parámetro real 1
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(477,19): warning C4022: 'ProcessMimi': no coincide el puntero para el parámetro real 1
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(481,46): warning C4047: 'función': 'LPVOID *' es distinto en los niveles de direccionamiento indirecto de 'DWORD64 *'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(481,46): warning C4022: 'AllocInline': no coincide el puntero para el parámetro real 2
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(482,17): warning C4047: '==': 'DWORD64' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(485,36): warning C4022: 'CopySections': no coincide el puntero para el parámetro real 2
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(485,52): warning C4022: 'CopySections': no coincide el puntero para el parámetro real 3
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(488,40): warning C4022: 'ApplyRelocations': no coincide el puntero para el parámetro real 2
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(491,39): warning C4022: 'FixImports': no coincide el puntero para el parámetro real 2
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(494,44): warning C4022: 'AssignPagePerms': no coincide el puntero para el parámetro real 2
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(497,54): warning C4022: 'RegisterExceptionHandlers': no coincide el puntero para el parámetro real 2
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(504,35): warning C4022: 'JumpToEntry': no coincide el puntero para el parámetro real 2
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(511,21): warning C4047: '!=': 'DWORD64' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(512,20): warning C4047: 'función': 'PBYTE' es distinto en los niveles de direccionamiento indirecto de 'DWORD64'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(512,20): warning C4024: 'ZeroMemoryCustom': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(512,36): warning C4244: 'función': conversión de 'DWORD64' a 'DWORD'; posible pérdida de datos
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(513,20): warning C4022: 'VirtualFree': no coincide el puntero para el parámetro real 1
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(519,17): warning C4047: '!=': 'DWORD64' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(520,20): warning C4047: 'función': 'PBYTE' es distinto en los niveles de direccionamiento indirecto de 'DWORD64'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(520,20): warning C4024: 'ZeroMemoryCustom': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(521,20): warning C4022: 'VirtualFree': no coincide el puntero para el parámetro real 1
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(470,10): warning C4047: 'inicializando': 'DWORD64' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(480,10): warning C4047: 'inicializando': 'DWORD64' es distinto en los niveles de direccionamiento indirecto de 'void *'
+  Generando código
+C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\MimiLoader.c(526): warning C4715: 'InjectMimikatz': no todas las rutas de acceso de control devuelven un valor
+  3 of 23 functions (13.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  MimiLoader.vcxproj -> C:\Users\hacker\Desktop\Arsenal\Loders\PELoader\MimiLoader\MimiLoader\x64\Release\MimiLoader.exe
