@@ -73,6 +73,7 @@ Default without arguments = coffee exit
 ![image](https://github.com/user-attachments/assets/da4e34f6-eb7b-4879-a396-be5a853adf54)
 
 
+![image](https://github.com/user-attachments/assets/ffa56cf8-91ad-4d6a-a85e-c7d5bbd311cd)
 
 
 
