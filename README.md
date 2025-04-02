@@ -1,6 +1,9 @@
 # MimiLoader
 Adapted PE Loader to load a rc4 encrypted mimikatz shellcode into memory with specified arguments before exiting.
 
+This is purely for educational purposes and I'm not responsible of the damage you may cause with unintentional usage.
+
+FurtherMore, this code by itself serves just as a prove of concept, and noisy commands such as lsadump::sam, wont bypass latest AV solutions :)
 
 (This project was part of my studying towards another project that I want to present as a paper when finished, stay tunned to find out more ^^)
 
@@ -70,10 +73,7 @@ Default without arguments = coffee exit
 .\MimiLoader.exe privilege::debug token::elevate coffee
 ```
 
-![image](https://github.com/user-attachments/assets/da4e34f6-eb7b-4879-a396-be5a853adf54)
 
-
-![image](https://github.com/user-attachments/assets/ffa56cf8-91ad-4d6a-a85e-c7d5bbd311cd)
 
 
 
